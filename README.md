@@ -1,1 +1,1 @@
-收藏使用javascript所写的各种小游戏
+收藏使用javascript语言写的各种小游戏
